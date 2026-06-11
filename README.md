@@ -1,6 +1,6 @@
 # About me
 
-## HELLO! My name is Kauã Neves 👋
+## HELLO! My name is Gabrielle Campelo👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kauaneves&color=bf5af2&style=flat-square&label=Profile+views" alt="Profile views" />
